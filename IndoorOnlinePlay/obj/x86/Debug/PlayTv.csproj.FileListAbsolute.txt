@@ -1,0 +1,109 @@
+C:\Documents and Settings\intelligencee\Configurações locais\Dados de aplicativos\Temporary Projects\PlayTv\bin\Debug\PlayTv.exe
+C:\Documents and Settings\intelligencee\Configurações locais\Dados de aplicativos\Temporary Projects\PlayTv\bin\Debug\PlayTv.pdb
+C:\Documents and Settings\intelligencee\Configurações locais\Dados de aplicativos\Temporary Projects\PlayTv\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\intelligencee\Configurações locais\Dados de aplicativos\Temporary Projects\PlayTv\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\intelligencee\Configurações locais\Dados de aplicativos\Temporary Projects\PlayTv\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\intelligencee\Configurações locais\Dados de aplicativos\Temporary Projects\PlayTv\obj\x86\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\intelligencee\Configurações locais\Dados de aplicativos\Temporary Projects\PlayTv\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\intelligencee\Configurações locais\Dados de aplicativos\Temporary Projects\PlayTv\obj\x86\Debug\PlayTv.csproj.ResolveComReference.cache
+C:\Documents and Settings\intelligencee\Configurações locais\Dados de aplicativos\Temporary Projects\PlayTv\obj\x86\Debug\PlayTv.Properties.Resources.resources
+C:\Documents and Settings\intelligencee\Configurações locais\Dados de aplicativos\Temporary Projects\PlayTv\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\intelligencee\Configurações locais\Dados de aplicativos\Temporary Projects\PlayTv\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\intelligencee\Configurações locais\Dados de aplicativos\Temporary Projects\PlayTv\obj\x86\Debug\PlayTv.exe
+C:\Documents and Settings\intelligencee\Configurações locais\Dados de aplicativos\Temporary Projects\PlayTv\obj\x86\Debug\PlayTv.pdb
+C:\Documents and Settings\intelligencee\Configurações locais\Dados de aplicativos\Temporary Projects\PlayTv\obj\x86\Debug\PlayTv.PlayTV.resources
+C:\Documents and Settings\intelligencee\Desktop\PlayTv\PlayTv\obj\x86\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\intelligencee\Desktop\PlayTv\PlayTv\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\intelligencee\Desktop\PlayTv\PlayTv\obj\x86\Debug\PlayTv.csproj.ResolveComReference.cache
+C:\Documents and Settings\intelligencee\Desktop\PlayTv\PlayTv\obj\x86\Debug\PlayTv.exe
+C:\Documents and Settings\intelligencee\Desktop\PlayTv\PlayTv\obj\x86\Debug\PlayTv.pdb
+C:\Documents and Settings\intelligencee\Desktop\PlayTv\PlayTv\bin\Debug\PlayTv.exe
+C:\Documents and Settings\intelligencee\Desktop\PlayTv\PlayTv\bin\Debug\PlayTv.pdb
+C:\Documents and Settings\intelligencee\Desktop\PlayTv\PlayTv\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\intelligencee\Desktop\PlayTv\PlayTv\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\intelligencee\Desktop\PlayTv\PlayTv\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\intelligencee\Desktop\PlayTv\PlayTv\obj\x86\Debug\PlayTv.PlayTV.resources
+C:\Documents and Settings\intelligencee\Desktop\PlayTv\PlayTv\obj\x86\Debug\PlayTv.Properties.Resources.resources
+C:\Documents and Settings\intelligencee\Desktop\PlayTv\PlayTv\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\intelligencee\Desktop\PlayTv\PlayTv\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\PlayTv\PlayTv\obj\x86\Debug\Interop.WMPLib.dll
+H:\PlayTv\PlayTv\obj\x86\Debug\AxInterop.WMPLib.dll
+H:\PlayTv\PlayTv\obj\x86\Debug\PlayTv.csproj.ResolveComReference.cache
+H:\PlayTv\PlayTv\obj\x86\Debug\PlayTv.exe
+H:\PlayTv\PlayTv\obj\x86\Debug\PlayTv.pdb
+H:\PlayTv\PlayTv\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\PlayTv\PlayTv\obj\x86\Debug\PlayTv.PlayTV.resources
+H:\PlayTv\PlayTv\obj\x86\Debug\PlayTv.Properties.Resources.resources
+H:\PlayTv\PlayTv\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\PlayTv\PlayTv\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\PlayTv\PlayTv\bin\Debug\PlayTv.exe
+H:\PlayTv\PlayTv\bin\Debug\PlayTv.pdb
+H:\PlayTv\PlayTv\bin\Debug\Interop.WMPLib.dll
+H:\PlayTv\PlayTv\bin\Debug\AxInterop.WMPLib.dll
+F:\PlayTv\PlayTv\obj\x86\Debug\Interop.WMPLib.dll
+F:\PlayTv\PlayTv\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\PlayTv\PlayTv\obj\x86\Debug\PlayTv.csproj.ResolveComReference.cache
+F:\PlayTv\PlayTv\obj\x86\Debug\PlayTv.exe
+F:\PlayTv\PlayTv\obj\x86\Debug\PlayTv.pdb
+F:\PlayTv\PlayTv\bin\Debug\PlayTv.exe
+F:\PlayTv\PlayTv\bin\Debug\PlayTv.pdb
+F:\PlayTv\PlayTv\bin\Debug\Interop.WMPLib.dll
+F:\PlayTv\PlayTv\bin\Debug\AxInterop.WMPLib.dll
+F:\PlayTv\PlayTv\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\PlayTv\PlayTv\obj\x86\Debug\PlayTv.PlayTV.resources
+F:\PlayTv\PlayTv\obj\x86\Debug\PlayTv.Properties.Resources.resources
+F:\PlayTv\PlayTv\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\PlayTv\PlayTv\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\PlayTv.csproj.ResolveComReference.cache
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\PlayTv.exe
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\PlayTv.pdb
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\bin\Debug\PlayTv.exe
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\bin\Debug\PlayTv.pdb
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\PlayTv.PlayTV.resources
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\PlayTv.Properties.Resources.resources
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\Interop.WMPLib.dll
+D:\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\PlayTv.csproj.ResolveComReference.cache
+D:\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\PlayTv.exe
+D:\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\PlayTv.pdb
+D:\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\bin\Debug\PlayTv.exe
+D:\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\bin\Debug\PlayTv.pdb
+D:\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\bin\Debug\Interop.WMPLib.dll
+D:\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\bin\Debug\AxInterop.WMPLib.dll
+D:\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\PlayTv.PlayTV.resources
+D:\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\PlayTv.Properties.Resources.resources
+D:\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\bin\Debug\PlayTv.exe.manifest
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\bin\Debug\PlayTv.application
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\PlayTv.exe.manifest
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\PlayTv.application
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\bin\Debug\PlayTv.exe.config
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\PlayTv.TrustInfo.xml
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\PlayTv\PlayTv\bin\Debug\PlayTv.exe.config
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\PlayTv.csproj.ResolveComReference.cache
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\PlayTv.exe
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\PlayTv.pdb
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\PlayTv.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\PlayTv.PlayTV.resources
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\PlayTv.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\PlayTv.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\PlayTv\PlayTv\bin\Debug\PlayTv.exe.manifest
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\PlayTv\PlayTv\bin\Debug\PlayTv.application
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\PlayTv\PlayTv\bin\Debug\PlayTv.exe
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\PlayTv\PlayTv\bin\Debug\PlayTv.pdb
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\PlayTv\PlayTv\bin\Debug\Interop.WMPLib.dll
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\PlayTv\PlayTv\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\PlayTv.TrustInfo.xml
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\PlayTv.exe.manifest
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\PlayTv\PlayTv\obj\x86\Debug\PlayTv.application
