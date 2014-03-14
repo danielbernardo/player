@@ -1,0 +1,56 @@
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\obj\x86\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\obj\x86\Debug\QiPlayer.csproj.ResolveComReference.cache
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\obj\x86\Debug\QiPlayer.QiPlayer.resources
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\obj\x86\Debug\QiPlayer.Properties.Resources.resources
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\bin\Debug\QiPlayer.exe
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\bin\Debug\QiPlayer.pdb
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\obj\x86\Debug\QiPlayer.exe
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\obj\x86\Debug\QiPlayer.pdb
+D:\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\obj\x86\Debug\Interop.WMPLib.dll
+D:\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\obj\x86\Debug\QiPlayer.csproj.ResolveComReference.cache
+D:\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\obj\x86\Debug\QiPlayer.exe
+D:\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\obj\x86\Debug\QiPlayer.pdb
+D:\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\bin\Debug\QiPlayer.exe
+D:\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\bin\Debug\QiPlayer.pdb
+D:\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\obj\x86\Debug\QiPlayer.QiPlayer.resources
+D:\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\obj\x86\Debug\QiPlayer.Properties.Resources.resources
+D:\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\obj\x86\Debug\QiPlayer.splash.resources
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\bin\Debug\QiPlayer.exe.manifest
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\bin\Debug\QiPlayer.application
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\obj\x86\Debug\QiPlayer.splash.resources
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\obj\x86\Debug\QiPlayer.exe.manifest
+C:\Documents and Settings\intelligencee\Meus documentos\Dropbox\QI Tecnologias\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\obj\x86\Debug\QiPlayer.application
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\obj\x86\Debug\QiPlayer.csproj.ResolveComReference.cache
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\obj\x86\Debug\QiPlayer.exe
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer\QiPlayer\obj\x86\Debug\QiPlayer.pdb
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\obj\x86\Debug\QiPlayer.csproj.ResolveComReference.cache
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\obj\x86\Debug\QiPlayer.exe
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\obj\x86\Debug\QiPlayer.pdb
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\obj\x86\Debug\QiPlayer.QiPlayer.resources
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\obj\x86\Debug\QiPlayer.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\obj\x86\Debug\QiPlayer.splash.resources
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\obj\x86\Debug\QiPlayer.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\bin\Debug\QiPlayer.exe.manifest
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\bin\Debug\QiPlayer.application
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\bin\Debug\QiPlayer.exe
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\bin\Debug\QiPlayer.pdb
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\obj\x86\Debug\QiPlayer.exe.manifest
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\obj\x86\Debug\QiPlayer.application

@@ -1,0 +1,17 @@
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\obj\x86\Debug\OnlinePlayIndoor.csproj.ResolveComReference.cache
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\bin\Debug\OnlinePlayIndoor.exe.manifest
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\bin\Debug\OnlinePlayIndoor.application
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\bin\Debug\OnlinePlayIndoor.exe
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\bin\Debug\OnlinePlayIndoor.pdb
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\obj\x86\Debug\OnlinePlayIndoor.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\obj\x86\Debug\OnlinePlayIndoor.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\obj\x86\Debug\OnlinePlayIndoor.exe.manifest
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\obj\x86\Debug\OnlinePlayIndoor.application
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\obj\x86\Debug\OnlinePlayIndoor.exe
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\obj\x86\Debug\OnlinePlayIndoor.pdb
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\obj\x86\Debug\OnlinePlayIndoor.Player.resources
+C:\Users\Daniel\Desktop\Nova pasta\trunk\Desenvolvimento\Projeto Recriado\QiPlayer - Com download via internet\QiPlayer\obj\x86\Debug\OnlinePlayIndoor.splash.resources

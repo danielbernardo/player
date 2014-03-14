@@ -1,0 +1,16 @@
+<?wpl version="1.0"?>
+<smil>
+	<head>
+		<meta name="Generator" content="Microsoft Windows Media Player -- 10.0.0.4036"/>
+		<author>Qi Tecnologias</author>
+		<title>Vídeos de Publicidade</title>
+	</head>
+	<body>
+		<seq>
+			<media src="videos\led time 01_1.wmv"/>
+			<media src="videos\led time 2s_1.wmv"/>
+			<media src="videos\Inverno.jpg"/>
+			<media src="videos\Por-do-sol.jpg"/>
+		</seq>
+	</body>
+</smil>
